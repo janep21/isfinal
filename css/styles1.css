@@ -1,0 +1,36 @@
+body {
+    color: deepskyblue;
+    background-color: skyblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-size: fill;
+}
+.common{
+    background-color: #cccccc;
+    border: 2px solid white;
+}
+.heading{
+    color: slategrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: honeydew;
+    font-size: bold ;
+    text-align: center;
+}
+.resume{
+    color: slategrey;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
+    text-align: center;
+    border-image-width: 4px solid white;
+}
+.filler{
+    color: slategrey;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
+}
+.table{
+    text-align: center;
+    color: black;
+    background-color: hotpink;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif ;
+}
